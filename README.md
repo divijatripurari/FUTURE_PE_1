@@ -34,19 +34,7 @@ Prompts
 
 - homepage_prompt.md
 - services_prompt.md
-- cta_prompt.md
-
-Outputs
-
-- homepage_copy.md
-- services_page.md
-- cta_sections.md
-
-Screenshots
-
-- prompt_input.png
-- homepage_output.png
-- website_preview.png
+- cta_prommpt.md
 
 Website Features
 
@@ -72,7 +60,7 @@ CTA Sections
 - Schedule a Health Checkup
 - Contact Our Team
 
-Live Website : https://lovable.dev/projects/e4c3601c-b551-411d-9749-f5e26fc9b701
+Live Website : [https://lovable.dev/projects/e4c3601c-b551-411d-9749-f5e26fc9b701](https://insight-vital.lovable.app/)
 
 Life Care Diagnostics Website
 
